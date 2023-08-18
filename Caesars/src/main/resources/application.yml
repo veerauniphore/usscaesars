@@ -1,0 +1,4 @@
+logging:
+   level:
+      root: INFO
+   file: D://agent_report_log//report.log
